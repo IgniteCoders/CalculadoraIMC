@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">CalculadoraIMC</string>
+    <string name="app_name">Calculadora IMC</string>
+
+    <string name="height_label">Altura:</string>
+    <string name="weight_label">Peso:</string>
+    <string name="height_text">%1$s cm</string>
+    <string name="weight_text">%1$s Kg</string>
+    <string name="calculate_text">Calcular</string>
+    <string name="under_weight">Bajo peso</string>
+    <string name="normal_weight">Peso saludable</string>
+    <string name="over_weight">Sobrepeso</string>
+    <string name="obesity">Obesidad</string>
+
+
 </resources>

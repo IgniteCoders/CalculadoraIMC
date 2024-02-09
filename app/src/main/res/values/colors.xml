@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
+    <color name="primary_color_light">#D1C4E9</color>
+    <color name="primary_color">#673AB7</color>
+    <color name="primary_color_dark">#512DA8</color>
+    <color name="accent_color">#FFC107</color>
+
+    <color name="background_color">#23143F</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Colores para el peso -->
+    <color name="under_weight_color">#BCA42F</color>
+    <color name="normal_weight_color">#318F35</color>
+    <color name="over_weight_color">#CA7437</color>
+    <color name="obesity_color">#AD1414</color>
 </resources>
