@@ -13,4 +13,9 @@
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="CardViewStyle" parent="CardView">
+        <item name="cardCornerRadius">24dp</item>
+        <item name="cardBackgroundColor">@color/primary_color_light</item>
+    </style>
 </resources>
